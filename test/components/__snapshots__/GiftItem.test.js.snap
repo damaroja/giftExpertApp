@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test del <GiftItem /> Test del snapshot  1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <p>
+      ESte es el titulo
+    </p>
+    <p>
+      <img
+        alt="ESte es el titulo"
+        src="https://media0.giphy.com/media/jhkgdsf7683gfd763"
+      />
+    </p>
+  </div>
+</div>
+`;
